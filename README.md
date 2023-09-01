@@ -6,7 +6,7 @@
 
 ## Warning 👇🏻
 
-<img src="20230902_003943.jpg">
+<img src="screen/20230902_003943.jpg">
 
 ##### With this tool, you can write a cracker for each login page + cracker development 
 
@@ -19,4 +19,6 @@
 
 - Finding site IDs and labels
 
-- Finding suspicious labels to make crackers 
+- Finding suspicious labels to make crackers 👇🏻
+
+<img src="screen/20230902_003929.jpg">
