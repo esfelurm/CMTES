@@ -16,11 +16,11 @@
 
 - Find the tags used in the login page + number of usage
 
-- Find all site labels
+- Find all site Variables
 
 - Finding site IDs and Variables
 
-- Finding suspicious labels to make crackers 👇🏻
+- Finding suspicious Variables to make crackers 👇🏻
 
 <img src="screen/20230902_003929.jpg">
 
