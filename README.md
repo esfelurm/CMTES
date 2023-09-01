@@ -1,5 +1,4 @@
 # ᏟᎷᎢᎬᏚ
- [![CMTES 2023](https://rawgit.com/toolswatch/badges/master/arsenal/europe/2018.svg)](http://www.toolswatch.org/2018/09/black-hat-arsenal-europe-2018-lineup-announced/)
 
 <img src="screen/Screenshot_20230901-220256_Chrome.jpg">
 
