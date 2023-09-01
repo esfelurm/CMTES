@@ -1,4 +1,3 @@
-# ᏟᎷᎢᎬᏚ
 <img src="screen/Polish_۲۰۲۳۰۹۰۲_۰۰۵۸۰۴۰۱۹.jpg">
 <img src="screen/Screenshot_20230901-220256_Chrome.jpg">
 
