@@ -33,7 +33,7 @@
 ## Support :
 
 - Linux
-- Windows
+- Windows `There is a problem on Iranian sites`
 - Termux
 
 ## Installation 
