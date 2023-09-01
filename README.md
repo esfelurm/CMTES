@@ -12,6 +12,8 @@
 
 ## Capabilities :
 
+<img src="screen/Screenshot_20230901-221935_Chrome.jpg">
+
 - Find the tags used in the login page + number of usage
 
 - Find all site labels
