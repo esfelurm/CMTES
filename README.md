@@ -29,3 +29,22 @@
 * `After making the crack tool, you can upgrade and customize it`
 
 * `I made it so that you can see all the labels so that you can determine for yourself how to make the cracker`
+
+## Support :
+
+- Linux
+- Windows
+- Termux
+
+## Installation 
+
+```
+git clone https://github.com/esfelurm/CMTES
+cd CMTES
+python CMTES.py
+```
+
+## Guide
+
+<h4>When you give the page address <em>First, the tags used in the source + number of consumption </em>is showing</h4>
+
