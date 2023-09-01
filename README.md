@@ -6,4 +6,15 @@
 
 
 
+##### With this tool, you can write a cracker for each login page + cracker development 
 
+
+## Capabilities :
+
+- Find the tags used in the login page + number of usage
+
+- Find all site labels
+
+- Finding site IDs and labels
+
+- Finding suspicious labels to make crackers 
