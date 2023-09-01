@@ -25,6 +25,6 @@
 
 ## Note :
 
-[*] After making the crack tool, you can upgrade and customize it 
+* `After making the crack tool, you can upgrade and customize it`
 
-[*] I made it so that you can see all the labels so that you can determine for yourself how to make the cracker 
+** `I made it so that you can see all the labels so that you can determine for yourself how to make the cracker`
