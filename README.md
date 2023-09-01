@@ -22,3 +22,9 @@
 - Finding suspicious labels to make crackers 👇🏻
 
 <img src="screen/20230902_003929.jpg">
+
+## Note :
+
+[*] After making the crack tool, you can upgrade and customize it 
+
+[*] I made it so that you can see all the labels so that you can determine for yourself how to make the cracker 
