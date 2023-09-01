@@ -50,7 +50,7 @@ python CMTES.py
 
 <h4>In the next value <em>Used and Variables & ID</em> displays </h4>
 
-<h4>In the last amount <em>It displays suspicious and necessary labels for entry </em></h4>
+<h4>In the last amount <em>It displays suspicious and necessary Variables for entry </em></h4>
 
 <a href="esfelurm@yahoo.com">My Email</a>
 
