@@ -48,3 +48,4 @@ python CMTES.py
 
 <h4>When you give the page address <em>First, the tags used in the source + number of consumption </em>is showing</h4>
 
+<p>In the next value <em>Used and Variables </em>displays </p>
