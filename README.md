@@ -54,4 +54,4 @@ python CMTES.py
 
 <a href="esfelurm@yahoo.com">My Email</a>
 
-<a href="https://t.me/Team_Exploit">My Channel/>
+<a href="https://t.me/Team_Exploit">My Channel</a>
